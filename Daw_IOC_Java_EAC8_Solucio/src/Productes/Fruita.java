@@ -27,4 +27,10 @@ public class Fruita extends Producte {
         
     }
 
+    @Override
+    public void aplicarDescompte(double descompte) {
+        // TODO Auto-generated method stub
+        
+    }
+
 }
